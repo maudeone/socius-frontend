@@ -1,38 +1,98 @@
-.App {
-  text-align: center;
+* {
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/***Navbar***/
+
+.navbar {
+  position: relative;
+  background-color: #086d9c;
+  opacity: .8;
+  box-shadow: .313em .313em 1em rgb(51, 51, 51);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navbar img {
+  width: 10.313em;
+  padding: 0.313em 0 0.313em 1.250em;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.nav-link {
+  color: white !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: .875em;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.navbar-nav {
+  align-self: center;
+}
+
+.phone-number {
+  margin-left: 15em;
+  margin-right: .625em;
+}
+
+.nav-button {
+  background-color: #e95920;
+  margin-right: 1.55em;
+  border: none;
+  padding: .313em 1.250em;
   color: white;
+  font-weight: 800;
 }
 
-.App-link {
-  color: #61dafb;
+@media(max-width: 768px) {
+  .navbar-nav {
+    align-items: center;
+  }
+
+  .nav-button {
+    margin-right: 0;
+  }
+
+  .phone-number{
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media(max-width: 991px) {
+  .navbar-nav {
+    align-items: center;
   }
-  to {
-    transform: rotate(360deg);
+
+  .nav-button {
+    margin-right: 0;
   }
+
+  .phone-number{
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+/***Header***/
+
+.header-container {
+  background-image: linear-gradient(to bottom right, #086d9c, #7BC243);
+  padding: 3.5em 5em;
+}
+
+.header {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2em;
+  font-weight: 700;
+  line-height: 1.3em;
+  margin-bottom: .75em;
+}
+
+.sub-header {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  line-height: 1.3em;
+  margin-bottom: 2.25em;
 }
