@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/socius-frontend/static/css/main.b2d70007.css",
+    "main.js": "/socius-frontend/static/js/main.ee02497e.js",
+    "static/js/787.e30a8dff.chunk.js": "/socius-frontend/static/js/787.e30a8dff.chunk.js",
+    "static/media/homeServices.png": "/socius-frontend/static/media/homeServices.cfeb8856b05615359404.png",
+    "static/media/healthServices.png": "/socius-frontend/static/media/healthServices.6d38f64389e83585d831.png",
+    "static/media/sunset.jpg": "/socius-frontend/static/media/sunset.6d6d22507e425657833a.jpg",
+    "static/media/comp.png": "/socius-frontend/static/media/comp.b742b82d0d608a3a29bd.png",
+    "static/media/stock2.jpg": "/socius-frontend/static/media/stock2.94fff31e4b1feebb962e.jpg",
+    "static/media/stock1.jpg": "/socius-frontend/static/media/stock1.46388612029429f9fdd0.jpg",
+    "static/media/homeHover.png": "/socius-frontend/static/media/homeHover.88294721b0cf5d810b18.png",
+    "static/media/healthHover.png": "/socius-frontend/static/media/healthHover.b2c0e01051c8941a6695.png",
+    "static/media/socius.JPG": "/socius-frontend/static/media/socius.02ce86c43995c9966056.JPG",
+    "static/media/sociusLeaf.JPG": "/socius-frontend/static/media/sociusLeaf.66c463644dfe04c1bcd0.JPG",
+    "static/media/sociusPower.JPG": "/socius-frontend/static/media/sociusPower.0714a87d3187aef92cf4.JPG",
+    "static/media/sociusCog.JPG": "/socius-frontend/static/media/sociusCog.39b5ed3ceaff26ec387b.JPG",
+    "index.html": "/socius-frontend/index.html",
+    "main.b2d70007.css.map": "/socius-frontend/static/css/main.b2d70007.css.map",
+    "main.ee02497e.js.map": "/socius-frontend/static/js/main.ee02497e.js.map",
+    "787.e30a8dff.chunk.js.map": "/socius-frontend/static/js/787.e30a8dff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2d70007.css",
+    "static/js/main.ee02497e.js"
+  ]
+}
