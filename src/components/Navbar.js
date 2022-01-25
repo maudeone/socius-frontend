@@ -29,7 +29,7 @@ const Navbar = () => {
             <a className="nav-link phone-number" href="#">888-876-2487</a>
           </li>
           <li className="nav-item">
-            <button className="nav-button"type="button"> Lets Talk</button>
+            <button className="nav-button"type="button"> Let's Talk</button>
           </li>
         </ul>
       </div>
